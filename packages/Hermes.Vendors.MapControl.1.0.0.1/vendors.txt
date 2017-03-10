@@ -1,0 +1,6 @@
+GPS 3.0
+https://gps3.codeplex.com/
+Geoframework 2.0
+http://geoframework.codeplex.com/
+GMap.Net
+https://github.com/radioman/greatmaps

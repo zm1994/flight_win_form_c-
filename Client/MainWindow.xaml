@@ -1,0 +1,20 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:WindowsPresentation="clr-namespace:GMap.NET.WindowsPresentation;assembly=GMap.NET.WindowsPresentation" x:Class="Client.MainWindow"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="26*"/>
+            <RowDefinition Height="293*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="txtBoxFrom" HorizontalAlignment="Left" Height="26" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="172"/>
+        <TextBox Name="txtBoxTo" HorizontalAlignment="Left" Height="26" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="172" Grid.Column="1"/>
+        <WindowsPresentation:GMapControl Name="GmapFlight" HorizontalAlignment="Left" Height="293" Grid.Row="1" VerticalAlignment="Top" Width="344" Grid.ColumnSpan="2" MaxZoom="8"/>
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\FlightConnection\bin\Debug\FlightConnection.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\FlightConnection\bin\Debug\FlightConnection.pdb
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\FlightConnection\obj\Debug\FlightConnection.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\FlightConnection\obj\Debug\FlightConnection.pdb
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\FlightConnection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\FlightConnection\bin\Debug\Newtonsoft.Json.xml

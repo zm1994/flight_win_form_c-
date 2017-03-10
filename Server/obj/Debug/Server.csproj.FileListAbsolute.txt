@@ -1,0 +1,17 @@
+c:\users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\Server.exe.config
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\Server.exe
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\Server.pdb
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\MongoDB.Bson.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\MongoDB.Driver.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\MongoDB.Bson.xml
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\MongoDB.Driver.xml
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\obj\Debug\Server.exe
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\obj\Debug\Server.pdb
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\FlightConnection.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\bin\Debug\FlightConnection.pdb
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

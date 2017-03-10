@@ -1,0 +1,17 @@
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\bin\Debug\ClientWinForms.exe
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\bin\Debug\ClientWinForms.pdb
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\bin\Debug\GMap.NET.Core.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\bin\Debug\GMap.NET.WindowsPresentation.xml
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\obj\Debug\ClientWinForms.Form1.resources
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\obj\Debug\ClientWinForms.Properties.Resources.resources
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\obj\Debug\ClientWinForms.csproj.GenerateResource.Cache
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\obj\Debug\ClientWinForms.exe
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\obj\Debug\ClientWinForms.pdb
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\bin\Debug\FlightConnection.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\bin\Debug\FlightConnection.pdb
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yaros_000\documents\visual studio 2013\Projects\Flight\ClientWinForms\obj\Debug\ClientWinForms.csprojResolveAssemblyReference.cache
